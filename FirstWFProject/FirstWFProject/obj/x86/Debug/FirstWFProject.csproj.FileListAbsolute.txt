@@ -1,0 +1,5 @@
+c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.exe
+c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.pdb
+c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.exe
+c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.pdb
