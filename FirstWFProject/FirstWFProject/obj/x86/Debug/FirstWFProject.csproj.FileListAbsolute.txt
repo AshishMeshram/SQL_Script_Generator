@@ -3,3 +3,8 @@ c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\Firs
 c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.pdb
 c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.exe
 c:\users\amrxtn-meshra\documents\visual studio 2010\Projects\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.pdb
+C:\Users\amrxtn-meshra\Documents\GitHub\SQL_Script_Generator\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.csprojResolveAssemblyReference.cache
+C:\Users\amrxtn-meshra\Documents\GitHub\SQL_Script_Generator\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.exe
+C:\Users\amrxtn-meshra\Documents\GitHub\SQL_Script_Generator\FirstWFProject\FirstWFProject\obj\x86\Debug\FirstWFProject.pdb
+C:\Users\amrxtn-meshra\Documents\GitHub\SQL_Script_Generator\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.exe
+C:\Users\amrxtn-meshra\Documents\GitHub\SQL_Script_Generator\FirstWFProject\FirstWFProject\bin\Debug\FirstWFProject.pdb
